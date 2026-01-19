@@ -1,0 +1,15 @@
+package com.sstapp.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+import com.sstapp.entity.User;
+
+@Repository
+public interface UserRepository extends JpaRepository<User, Integer> {
+
+    // un-implemented User Service  
+    // Show AOT-generated Implementation, Query, etc...
+    User findByEmail(String email);
+
+}
