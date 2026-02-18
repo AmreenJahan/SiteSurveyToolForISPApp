@@ -1,6 +1,6 @@
 # Site Survey Tool for ISP App
 
-A real-world enterprise web application developed during the Infosys Internship Program to help Internet Service Providers (ISPs) efficiently conduct site surveys, manage properties, and organize floor plan data securely.
+A real-world enterprise web application developed to help Internet Service Providers (ISPs) efficiently conduct site surveys, manage properties, and organize floor plan data securely.
 
 ---
 
