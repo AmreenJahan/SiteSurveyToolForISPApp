@@ -12,21 +12,21 @@ The Site Survey Tool digitizes ISP survey workflows by enabling secure property 
 
 ## Key Features
 
-- JWT-based secure authentication
-- Role-based access control
-- Property management system
-- Floor plan upload and storage
-- Multi-organization support
-- Centralized dashboard for survey tracking
+- JWT-based secure authentication  
+- Role-based access control  
+- Property management system  
+- Floor plan upload and storage  
+- Multi-organization support  
+- Centralized dashboard for survey tracking  
 
 ---
 
 ## Technology Stack
 
-- **Backend:** Spring Boot (Java)
-- **Frontend:** JSP (JavaServer Pages)
+- **Backend:** Spring Boot (Java)  
+- **Frontend:** JSP (JavaServer Pages)  
 - **Database:** MySQL
-- **Security:** Spring Security with JWT
-- **Build Tool:** Maven
+- **Security:** Spring Security with JWT  
+- **Build Tool:** Maven  
 
 ---
