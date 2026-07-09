@@ -28,5 +28,3 @@ The Site Survey Tool digitizes ISP survey workflows by enabling secure property 
 - **Database:** MySQL
 - **Security:** Spring Security with JWT  
 - **Build Tool:** Maven  
-
----
